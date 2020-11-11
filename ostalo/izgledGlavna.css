@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(29, 93, 212);
+    margin-top: 50px;
+    margin-left: 250px;
+}
+button{
+    height: 200px;
+    width: 350px;
+    background-color: rgb(240, 120, 51);
+    color: rgb(0, 119, 0);
+    font-weight: bold;
+    float: left;
+    font-size: 60pt;
+    border-radius: 50px;
+}
+table{
+    margin-left: 150px;
+    margin-top: 100px;
+}
+#skor{
+    height: 50px;
+    width: 100px;
+    background-color: rgb(240, 120, 51);
+    color: rgb(0, 119, 0);
+    font-weight: bold;
+    float: left;
+    font-size: 10pt;
+    border-radius: 50px;
+}
+#skor:hover{
+    background-color: rgb(240, 153, 104);
+}
+input{
+    background-color: white;
+    height: 50px;
+    width: 60px;
+    font-size: 20pt;
+}
+button:hover{
+    background-color: rgb(240, 153, 104);
+}
+label{
+    background-color: rgb(124, 170, 255);
+    font-size: 15pt;
+    margin-left: 2px;
+}
+fieldset{
+    width: 900px;
+    margin-left: 50px;
+}
